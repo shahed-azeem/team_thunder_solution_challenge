@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/team_thunder_solution_challenge/static/css/main.4a09e5f0.css",
+    "main.js": "/team_thunder_solution_challenge/static/js/main.df73a895.js",
+    "index.html": "/team_thunder_solution_challenge/index.html",
+    "main.4a09e5f0.css.map": "/team_thunder_solution_challenge/static/css/main.4a09e5f0.css.map",
+    "main.df73a895.js.map": "/team_thunder_solution_challenge/static/js/main.df73a895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a09e5f0.css",
+    "static/js/main.df73a895.js"
+  ]
+}
